@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Obstacle
+  - Creature
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BlackForGround
+    uniqueID: 3947723603
+    locked: 0
+  - name: Ground
+    uniqueID: 2881683047
+    locked: 0
+  - name: Flora
+    uniqueID: 1515250275
+    locked: 0
+  - name: Rocks/Hideout
+    uniqueID: 3337423221
+    locked: 0
+  - name: Vehicles/Door
+    uniqueID: 813989871
+    locked: 0
+  - name: Item
+    uniqueID: 2845897875
+    locked: 0
+  - name: 'Creatures '
+    uniqueID: 1207877299
+    locked: 0
+  - name: Player
+    uniqueID: 745924411
+    locked: 0
+  - name: Flame
+    uniqueID: 2705317437
+    locked: 0

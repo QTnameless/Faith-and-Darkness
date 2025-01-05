@@ -1,0 +1,50 @@
+Unity Package Manager Diagnostics (v0.3.0)
+============
+Ran 7 checks
+============
+5 succeeded
+1 failed
+1 did not run
+============
+✅ UPM registry reachable (PASS)
+Make an HTTP request to the UPM package registry
+>> HTTP/1.1 200 OK
+>> X-Powered-By: Express
+>> Date: Tue, 31 Dec 2024 08:42:14 GMT
+>> Via: 1.1 google
+>> Transfer-Encoding: chunked
+>> Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+>> Connection: close
+
+✅ Ping UPM registry (PASS)
+Measure the latency of the UPM package registry API
+>> 12 pings made in 5.261 seconds
+>> Average latency: 37.69 ms
+>> Minimum latency: 26.45 ms
+>> Maximum latency: 83.84 ms
+>> Standard deviation: 16.40
+
+✅ Ping UPM download (PASS)
+Measure the latency of the UPM package download endpoint
+>> 10 pings made in 5.196 seconds
+>> Average latency: 28.82 ms
+>> Minimum latency: 25.65 ms
+>> Maximum latency: 33.90 ms
+>> Standard deviation: 2.21
+
+✅ UPM registry download speed (PASS)
+Test the Internet connection using the UPM package registry
+>> Measured speed to the UPM registry: 41.35 Megabits per second
+
+✅ HTTP proxy environment variables (PASS)
+Detect whether proxy-related environment variables are set (HTTP_PROXY, HTTPS_PROXY, ALL_PROXY, NO_PROXY, UNITY_PROXYSERVER, UNITY_NOPROXY)
+>> No proxy support has been configured through environment variables.
+
+❓ System Proxy configuration (UNKNOWN)
+Detect proxy configuration at the system level
+>> The proxy auto configuration feature is not enabled.
+
+❌ UPM health check (FAIL)
+Start the UPM process and call its health endpoint
+>> Server started but did not respond to health requests:
+>> Error: connect ECONNREFUSED 127.0.0.1:51744

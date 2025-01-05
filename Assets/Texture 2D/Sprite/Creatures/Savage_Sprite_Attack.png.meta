@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: 000e2bb4fad8bca4e9f7be711177fd1b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 102
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6475bebe216dee34cbff7ec21c5e9a8f
+      internalID: 1217719505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 149
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b03427ab2b5d63498eab630d735d81a
+      internalID: -2089640605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 103
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51060647ca281794285d00b2d63e6066
+      internalID: -1483206222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 60
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4501ec11a5cda8943802e807b025698f
+      internalID: 1249257930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 250
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb133f1f7d1ad4eb60853fae471c28
+      internalID: 462606987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 195
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a4c565c58e8244eb447e6bb1e17b4e
+      internalID: -408599228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 138
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4302a842710ee1c4281a192e7f849500
+      internalID: 261741670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 74
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4233ebed8402f464c93bbefb262be821
+      internalID: 1531044818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 245
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bdc1a73e639d14c8ff2a0eafd4ac12
+      internalID: 1124324122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 204
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5812a885859005741a2ae36fc57aff5d
+      internalID: 147579464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 147
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cad587a71f4394fbad0a74c7742ddc
+      internalID: 1181023423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 68
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dbbf451ab774f4c8952827fb55d966
+      internalID: -138075148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 319
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740acc978b35a7241994847ea063c586
+      internalID: 1341417300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 265
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f28501bdc46ce44983679a5048b1464
+      internalID: -284079077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 211
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de629903182c174f9bfeedf82de0dbc
+      internalID: 1672242712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 166
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463a1558ec3581b4aae327bc64e94be9
+      internalID: 192267294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 119
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c540c9c7b6934f9047bd54c7d71c1
+      internalID: 1931078783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 404
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c53460bc767a43923f4c6033aa0af
+      internalID: -1617024993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 366
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece79fbf4b7dee249900be96b6918e43
+      internalID: -187630452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 322
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7c4ffe868b0164d9263c24ee28d22a
+      internalID: -443667395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 278
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b2aec9d6c8814184fb7e5c8356980
+      internalID: 90548587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 225
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93452fb799c6c954d80a732481f5c93a
+      internalID: 296803797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 186
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b12d0160874734eb4a27fe7ab28ae9
+      internalID: 658793137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 143
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a6a9e007db69544b8aae5f29190f23
+      internalID: 1402635231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 105
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b50e89b4143349bdf1bbab973c951
+      internalID: -829582896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 65
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c5fe59189f3545b4905af507ff42e
+      internalID: -1983464737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb41f44293aaa8499a469bc1f10a772
+      internalID: -64582673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 65
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17ca178d793cc941aaa60a9de8e9272
+      internalID: 681896225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 112
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b9adf5fe07f7e489a4bb4d7f73c7fb
+      internalID: 243088298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 161
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d09ee326c2c074fbc6f4790ee601a4
+      internalID: 1009037601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 202
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8b98d2a406854aa2a0d6cd581f4ef
+      internalID: 1047440091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 245
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e990d68458d4d154496e14612da358be
+      internalID: -1583116475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 296
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca35557d7d858741b39d68ed62f9cc0
+      internalID: -335200216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 345
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3084d98175c84b4cb1beed539fa454a
+      internalID: -23467214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 390
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec7d17b60f0f094aa1974a84c62c452
+      internalID: -82244647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Savage_Sprite_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 435
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f0c757b3533a43b93454cc59fd719
+      internalID: -640696119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Savage_Sprite_Attack_0: 1217719505
+      Savage_Sprite_Attack_1: -2089640605
+      Savage_Sprite_Attack_10: 1181023423
+      Savage_Sprite_Attack_11: -138075148
+      Savage_Sprite_Attack_12: 1341417300
+      Savage_Sprite_Attack_13: -284079077
+      Savage_Sprite_Attack_14: 1672242712
+      Savage_Sprite_Attack_15: 192267294
+      Savage_Sprite_Attack_16: 1931078783
+      Savage_Sprite_Attack_17: -1617024993
+      Savage_Sprite_Attack_18: -187630452
+      Savage_Sprite_Attack_19: -443667395
+      Savage_Sprite_Attack_2: -1483206222
+      Savage_Sprite_Attack_20: 90548587
+      Savage_Sprite_Attack_21: 296803797
+      Savage_Sprite_Attack_22: 658793137
+      Savage_Sprite_Attack_23: 1402635231
+      Savage_Sprite_Attack_24: -829582896
+      Savage_Sprite_Attack_25: -1983464737
+      Savage_Sprite_Attack_26: -64582673
+      Savage_Sprite_Attack_27: 681896225
+      Savage_Sprite_Attack_28: 243088298
+      Savage_Sprite_Attack_29: 1009037601
+      Savage_Sprite_Attack_3: 1249257930
+      Savage_Sprite_Attack_30: 1047440091
+      Savage_Sprite_Attack_31: -1583116475
+      Savage_Sprite_Attack_32: -335200216
+      Savage_Sprite_Attack_33: -23467214
+      Savage_Sprite_Attack_34: -82244647
+      Savage_Sprite_Attack_35: -640696119
+      Savage_Sprite_Attack_4: 462606987
+      Savage_Sprite_Attack_5: -408599228
+      Savage_Sprite_Attack_6: 261741670
+      Savage_Sprite_Attack_7: 1531044818
+      Savage_Sprite_Attack_8: 1124324122
+      Savage_Sprite_Attack_9: 147579464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
